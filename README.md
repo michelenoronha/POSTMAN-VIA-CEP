@@ -6,6 +6,7 @@ Além disso, o Postman oferece recursos de automação de testes, documentação
 Se você trabalha com APIs regularmente, o Postman é uma ferramenta que pode simplificar significativamente o processo de desenvolvimento e teste. 
 
 In English
+
 Postman is an incredible tool for developers working with APIs. It allows you to test, develop, and collaborate on building APIs easily. With Postman, you can create custom HTTP requests, send parameters, authenticate, and view responses, all in an organized and intuitive manner.
 
 Moreover, Postman offers features for test automation, API documentation, and team collaboration. You can save your requests in collections, share them with other team members, and even sync them in the cloud for easy collaboration.
